@@ -1,0 +1,28 @@
+{
+    "posts": {
+        "1": {
+            "author": "FMOD OG",
+            "date": "2024-12-21",
+            "message": "Thank you all for supporting FMOD as we officially release to the public. We will try to fix all bugs possible, but in the meantime have fun playing! Make sure you stay active in our discord server for updates, giveaways, new item shops, status, and more.",
+            "title": "FMOD OG",
+            "tags": "RELEASE, NEW, FMOD, UPDATE, OG",
+            "visible": true
+        },
+        "2": {
+            "author": "FMOD OG",
+            "date": "2024-11-12",
+            "message": "Thank you for supporting FMOD as we slowly push out our release, everything will be stable soon! Donations will be coming soon, with tons of amazing perks that you can purchase!",
+            "title": "A Message from the FMOD Team",
+            "tags": "MESSAGE, FMOD, RELEASE, NEW",
+            "visible": true
+        },
+        "3": {
+            "author": "FMOD OG",
+            "date": "2024-10-04",
+            "message": "Here are the latest updates and fixes for FMOD:\n\n**Fixes**:\n1. Fixed an error where your game data would flag as corrupted.\n2. Fixed an issue where it said 'The game has not been launched correctly'.\n3. Fixed an issue where the downloader would not extract the manifest.\n\n**Changes**:\n1. Launcher V3 is out, created by: @PixelStrap!\n2. We are making severe improvements to our backend.\n3. We are also improving our game server, expect downtime some days as we prepare to go 24/7.",
+            "title": "Update 10/04",
+            "tags": "UPDATE, FIXES, BACKEND, SERVER, LAUNCHER",
+            "visible": true
+        }
+    }
+}
